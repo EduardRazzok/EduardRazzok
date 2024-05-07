@@ -1,0 +1,11 @@
+- 👋 Привіт, мене звати Едуард, я з України 💙💛🇺🇦
+- 👀 Я цікавлюся розробкою ігор в Unity та програмуванням на C#
+- 🌱 На даний момент я вивчаю C# і моделювання в Blender. Маю початкові навички в цих програмах. Планую вивчати С++ та Unreal Engine.
+- ⚡️ Веселий факт: Крім програмування та моделювання, я також вивчаю гру на гітарі. Це додає моєму життю різноманіття та дозволяє мені відпочити, творчо виражатися та знайти нові ідеї для моїх проектів.
+- ⚡️ Веселий факт: Коли я не зайнятий розробкою ігор, я люблю грати в різноманітні відеоігри, особливо ті, що інспірують мене на нові творчі ідеї для моїх власних проектів.
+
+- 👋 Hi, I'm Eduard, I'm from Ukraine 💙💛🇺🇦
+- 👀 I'm interested in Unity game development and C# programming
+- 🌱 Currently, I'm learning C# and Blender modeling. I have basic skills in these programs. Planning to learn C++ and Unreal Engine.
+- ⚡️ Fun fact: Besides programming and modeling, I'm also learning to play the guitar. It adds variety to my life and allows me to unwind, creatively express myself, and find new ideas for my projects.
+- ⚡️ Fun fact: When I'm not busy with game development, I enjoy playing various video games, especially those that inspire me with new creative ideas for my own projects.
